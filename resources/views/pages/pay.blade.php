@@ -90,7 +90,7 @@
 						<div class="offset-md-1 col-md-10 offset-md-1">
 							<div class="form-group mt-5">
 							    <label for="exampleInputEmail1" class="font-weight-bold">Account Number</label>
-							    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="firstName" value="4460795678" readonly="">
+							    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="firstName" value="7810261167" readonly="">
 							
 							</div>
 						</div>
@@ -99,7 +99,7 @@
 						<div class="offset-md-1 col-md-10 offset-md-1">
 							<div class="form-group mt-5">
 							    <label for="exampleInputEmail1" class="font-weight-bold">Bank Name</label>
-							    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="firstName" value="Rubies MFB" readonly="">
+							    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="firstName" value="Wema Bank" readonly="">
 							
 							</div>
 						</div>
